@@ -1,6 +1,6 @@
 # CarEvaluation
 - Ejercicio inteligencia artificial y machine learning con python
-- Ejercicios básicos librería Matplotlib
+- Ejercicios básicos con la librería Matplotlib
 
 # Data
 UCI Machine Learning Repository
